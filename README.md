@@ -75,6 +75,7 @@ Bonus özellikler, birden fazla dosya tanımlayıcısından aynı anda satır ok
 char *get_next_line(int fd);
 ```
 
+
 - `fd`: Okuma yapılacak dosya tanımlayıcısı.
 
 **Dönüş Değeri:**
